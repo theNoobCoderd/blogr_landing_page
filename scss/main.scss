@@ -45,7 +45,7 @@ p {
 .header-blogr {
     position: relative;
     background: rgb(10,209,246);
-    background-image: url("./images/bg-pattern-intro.svg"), linear-gradient(90deg, hsl(13, 100%, 72%) 0%, hsl(353, 100%, 62%) 95%);
+    background-image: url("../images/bg-pattern-intro.svg"), linear-gradient(90deg, hsl(13, 100%, 72%) 0%, hsl(353, 100%, 62%) 95%);
     background-repeat: no-repeat;
     background-position: center;
     height: 500px;
@@ -164,7 +164,7 @@ p {
     bottom: 0;
     z-index: -1;
     position: absolute;
-    background-image: url("./images/bg-pattern-circles.svg"), linear-gradient(180deg, $background-dark-gray-blue 0%, $background-dark-desaturated-blue 100%);
+    background-image: url("../images/bg-pattern-circles.svg"), linear-gradient(180deg, $background-dark-gray-blue 0%, $background-dark-desaturated-blue 100%);
     background-repeat: no-repeat;
     border-radius: 0px 70px 0px 70px;
 }
